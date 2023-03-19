@@ -14,7 +14,7 @@ npx create-react-app my-app --template redux-typescript
 yarn create react-app my-app --template redux-typescript
 ```
 
-Cloning this repo pulls down the Redux template only; not a bundled and configured Create React App.
+Cloning this repos pulls down the Redux template only; not a bundled and configured Create React App.
 
 For more information, please refer to:
 

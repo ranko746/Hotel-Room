@@ -1,6 +1,6 @@
 # Hotel Reservation System
 
-The official Redux+TS template for [Create React App](https://github.com/facebook/create-react-app).
+The official React+TS template for [Create React App](https://github.com/facebook/create-react-app).
 
 To use this template within your project, add `--template redux-typescript` when creating a new app.
 
